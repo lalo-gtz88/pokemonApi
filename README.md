@@ -1,23 +1,32 @@
-# Directorio de Pokemons
+# Pokémon API Search
 
-![Imagen obtenida de pokeapi.co](https://pokeapi.co/static/pokeapi_256.3fa72200.png)
+Simple React application that consumes the public PokeAPI to list and search Pokémon.
 
-<p> Este es un pequeño proyecto en mi iniciacion con la libreria ReactJs, es un buen ejemplo para conocer los aspectos basicos de la libreria consumiendo una API </p>
+## 🚀 Features
+- Search Pokémon by name or ID
+- Display basic Pokémon information
+- Uses React for UI
+- Demonstrates API consumption and state management
 
-## Instalacion 🔧
+## 🛠️ Tech Stack
+- React
+- JavaScript
+- Fetch API
+- PokeAPI (https://pokeapi.co)
 
-<p>
-  Para instalarlo solo debes clonar el repositorio y correr los siguientes comandos 
-</p>
+## 📦 Setup
 
-`npm install` <br />
-`npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion` <br/>
+1. Clone the repository
+   git clone https://github.com/lalo-gtz88/pokemonApi.git
+2. Install dependencies
+   npm install
+3. Run the development server
+   npm start
 
-<b>NOTA: </b>  Debes tener instalado NodeJs
 
-## Construido con 🛠️
-[ReactJs](https://es.reactjs.org/) <br/>
-[Chakra UI](https://chakra-ui.com/) 
 
-## Autor ✒️
-Eduardo Gutierrez 
+## 💡 Notes
+This project was created as a practice project to improve API usage and React fundamentals.
+
+## 📌 About
+Link to PokeAPI documentation: https://pokeapi.co/docs/v2
